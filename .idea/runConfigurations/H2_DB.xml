@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="H2 DB" type="JarApplication" singleton="true">
-    <option name="JAR_PATH" value="$PROJECT_DIR$/../../../wildfly-20.0.1.Final/modules/system/layers/base/com/h2database/h2/main/h2-1.4.197.jar" />
+    <option name="JAR_PATH" value="$PROJECT_DIR$/../ESS_Tools/wildfly-20.0.1.Final/modules/system/layers/base/com/h2database/h2/main/h2-1.4.197.jar" />
     <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     <option name="ALTERNATIVE_JRE_PATH" />
     <method v="2" />
